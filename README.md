@@ -12,7 +12,8 @@ Raise Awareness: Highlight the importance of language preservation.
 
 **Installation**
 Check and Install Required Modules:
-Run the Install Python script to verify if the necessary modules are installed and install them if needed:
+Run the all the code in https://github.com/Geelhem/OCR-for-Digital-Record/tree/main/workflow_code/Installation%20Checks
+Python script to verify if the necessary modules are installed and install them if needed:
 Python
 
 **Contributing**
