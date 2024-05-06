@@ -8,7 +8,10 @@ from pdf2image import convert_from_path
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # Define the path to your directory
-dir_path = r'C:\Users\MrGChene\dev_work\OCR\content'
+dir_path = r'C:\Users\MrGChene\dev_work\Guernsey French Digital Record\Test Materials'
+
+# Define the path to the poppler bin folder
+poppler_path = r'C:\Users\MrGChene\dev_work\OCR\workflow_code\poppler\poppler-21.11.0\bin'  # Replace with your actual poppler bin path
 
 # Iterate over all files in the directory
 for filename in os.listdir(dir_path):
@@ -25,7 +28,7 @@ for filename in os.listdir(dir_path):
         # Check if the file is a PDF
         if file_path.lower().endswith('.pdf'):
             # Convert the PDF to a list of images
-            images = convert_from_path(file_path)
+            images = convert_from_path(file_path, poppler_path=poppler_path)
             for i, img in enumerate(images):
                 try:
                     # Use Tesseract to do OCR on the image

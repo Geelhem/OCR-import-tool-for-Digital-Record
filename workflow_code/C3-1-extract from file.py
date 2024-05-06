@@ -7,7 +7,7 @@ import os
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # Define the path to your directory
-dir_path = r'C:\Users\MrGChene\dev_work\OCR\content'
+dir_path = r''
 
 # Iterate over all files in the directory
 for filename in os.listdir(dir_path):
