@@ -35,6 +35,10 @@ This project is licensed under the MIT License.
 
 **Acknowledgments**
 We thank you: the community, linguists, and scholars for their support. This is a secondary school student lead programme by the Ladies College Guernsey in support of the Guernsey Language Commission ur girls have they set up a contact email gf@ladiescollege.gg and a form https://forms.office.com/e/qtPAzwwP5z to fill out for  anyone who would like to submit audio recordings of people speaking Guernsey French.  
+Our girls have they set up a contact email gf@ladiescollege.gg and a form https://forms.office.com/e/qtPAzwwP5z to fill out for  anyone who would like to submit audio recordings of people speaking Guernsey French.  
 
-Our students would also encourage anyone from the local Developers’ Community or anyone working with the Language Models community or with coding skills to get in touch by email (above) or contribute to our GitHub project page if you think you or know someone who can help. 
+https://github.com/Geelhem/OCR-import-tool-for-Digital-Record 
+https://github.com/Geelhem/Guernsey-French-Digital-Record
 
+Guilhem Chene 
+https://gg.linkedin.com/in/gchene 
