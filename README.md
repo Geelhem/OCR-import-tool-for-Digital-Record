@@ -1,4 +1,4 @@
-**The reop is part of Guernsey French Language Preservation Project**
+**This Repo is part of Guernsey French Language Preservation Project**
 **Overview**
 The Guernsey French Language Preservation Project aims to digitize and preserve resources related to the endangered Guernsey French Language. By creating a digital record, we ensure that valuable texts, documents, and cultural heritage are accessible to future generations.
 
