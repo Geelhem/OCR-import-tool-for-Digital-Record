@@ -1,8 +1,14 @@
 **This Repo is part of Guernsey French Language Preservation Project**
 **Overview**
-The Guernsey French Language Preservation Project aims to digitize and preserve resources related to the endangered Guernsey French Language. By creating a digital record, we ensure that valuable texts, documents, and cultural heritage are accessible to future generations.
+The Guernsey French Language Preservation Project aims to digitize and preserve resources related to the endangered Guernsey French Language. By creating a digital record, we ensure that valuable texts, documents, and cultural heritage are accessible to future generations. 
 
-**Goals and Objectives**
+**Aims**
+The objective is to digitally preserve a critically endangered language, which currently lacks a standardized spelling.
+The commission in charge of preserving the language has identified two priorities : 
+Priority 1 is to safeguard the language by recording native speakers of the language and creating a digital library of audio recordings.
+Priority 2 is to create a digital record of existing written work, by creating a digital library of bilingual texts.
+
+**Goals and Objectives of the script**
 
 Preservation: Digitize Guernsey French Language resources, including PDFs and images. 
 
